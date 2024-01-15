@@ -35,8 +35,10 @@ Previously...
 
 -   ⛓️ Fellow at [ETHIndia Fellowship '23](https://eif3.devfolio.co/fellows)
 -   ☀️ GSoC '22 contributor at [RADAR-Base](https://radar-base.org/)
+-   👨‍💻 Software Engineer at Samsung R&D
 -   🪻 Machine Learning Intern at Longshot AI
 -   🎓 Graduated from IIIT Vadodara
+-   Testing
 
 ## Last 5 [Nibbles](https://nibbles.dev)
 
