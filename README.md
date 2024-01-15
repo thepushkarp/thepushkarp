@@ -38,7 +38,6 @@ Previously...
 -   👨‍💻 Software Engineer at Samsung R&D
 -   🪻 Machine Learning Intern at Longshot AI
 -   🎓 Graduated from IIIT Vadodara
--   Testing
 
 ## Last 5 [Nibbles](https://nibbles.dev)
 
