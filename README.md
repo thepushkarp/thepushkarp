@@ -40,7 +40,6 @@ Previously...
 -   🎓 Graduated from IIIT Vadodara
 
 ## Last 5 [Nibbles](https://nibbles.dev)
-
 <!-- NIBBLE:START -->
 - [#42](https://thenibble.substack.com/p/42)
 - [Dive into the World of High-Quality Data with Abhishek](https://thenibble.substack.com/p/dive-into-the-world-of-high-quality)
