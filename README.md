@@ -47,3 +47,22 @@ Previously...
 - [#42](https://thenibble.substack.com/p/42)
 - [Dive into the World of High-Quality Data with Abhishek](https://thenibble.substack.com/p/dive-into-the-world-of-high-quality)
 <!-- NIBBLE:END -->
+
+## Some of my side projects:
+
+2024
+- [Discord Spoiler Text Converter](https://discord-spoiler-text-converter.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/discord-spoiler-text-converter)) - Convert your text to Discord Spoiler Text in an instant
+  
+2023
+- [Praiority](https://devfolio.co/projects/praiority-0297) ([GitHub Repo](https://github.com/thepushkarp/praiority)) - A simple tool for people with executive dysfunction to break down their tasks and help achieve them
+- Twitter Helper Craft Extension ([GitHub Repo](https://github.com/thepushkarp/craft-tweet-helper)) - A Craft Docs extension to help you write tweets withing the twitter limit
+
+2022
+- `¯\_(ツ)_/¯`
+
+2021
+- [NaLCoS](https://pypi.org/project/nalcos/) ([GitHub Repo](https://github.com/thepushkarp/nalcos)) - NaLCoS (NAtural Language COmmit Search) is a command-line tool for searching commit messages in your repository in natural language
+- [Frontend of IIITV's Certificate Generator](https://mycertificatesgymkhana.iiitvadodara.ac.in/) ([GitHub Repo](https://github.com/thepushkarp/certificate-generator-frontend)) - E-certificate verification and generation system for our college, the Indian Institute of Information Technology Vadodara
+- [Etymology Viewer](https://etymology.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/etymology-viewer)) - A small site that shows the origin of some common words
+- [Rupee Inflation Dashboard](https://rupee-inflation.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/rupee-inflation-dashboard)) - Dashboard showing how the buying power of ₹100 has changed over the years
+
