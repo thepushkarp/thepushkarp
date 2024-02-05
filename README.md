@@ -28,7 +28,7 @@
 -   🌐 Check out my website https://thepushkarp.com/
 -   🥷 Building some cool stuff with LLMs
 -   👀 Looking to collaborate on interesting Machine Learning projects
--   💬 Besides programming, I also love reading ([Logophilia](https://logophilia.thinkific.com/) is one of the reasons why!)
+-   💬 Besides programming, I also love etymology ([Logophilia](https://logophilia.thinkific.com/) is one of the reasons why!)
 -   📫 Reach out to me at `hi [AT] thepushkarp [DOT] com`
 
 Previously...
@@ -58,10 +58,11 @@ Previously...
 - Twitter Helper Craft Extension ([GitHub Repo](https://github.com/thepushkarp/craft-tweet-helper)) - A Craft Docs extension to help you write tweets withing the twitter limit
 
 2022
-- `¯\_(ツ)_/¯`
+- [RADAR-Pipeline](https://thepushkarp.github.io/RADAR-Base-GSoC-2022-Report/) ([GitHub Repo](https://github.com/RADAR-base/radarpipeline)) - A python feature generation and visualzation package use with RADAR project data, as my GSOC project
 
 2021
 - [NaLCoS](https://pypi.org/project/nalcos/) ([GitHub Repo](https://github.com/thepushkarp/nalcos)) - NaLCoS (NAtural Language COmmit Search) is a command-line tool for searching commit messages in your repository in natural language
+- [Infographics Wizard](https://arxiv.org/pdf/2204.09904.pdf) ([GitHub Repo](https://github.com/tyagi-iiitv/infographics_generation)) - Implementation of the Infographics Wizard paper using React and D3.js, a flexible infographics authoring pipeline
 - [Frontend of IIITV's Certificate Generator](https://mycertificatesgymkhana.iiitvadodara.ac.in/) ([GitHub Repo](https://github.com/thepushkarp/certificate-generator-frontend)) - E-certificate verification and generation system for our college, the Indian Institute of Information Technology Vadodara
 - [Etymology Viewer](https://etymology.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/etymology-viewer)) - A small site that shows the origin of some common words
 - [Rupee Inflation Dashboard](https://rupee-inflation.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/rupee-inflation-dashboard)) - Dashboard showing how the buying power of ₹100 has changed over the years
