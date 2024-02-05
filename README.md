@@ -58,4 +58,5 @@
 - [Frontend of IIITV's Certificate Generator](https://mycertificatesgymkhana.iiitvadodara.ac.in/) ([GitHub Repo](https://github.com/thepushkarp/certificate-generator-frontend)) - E-certificate verification and generation system for our college, the Indian Institute of Information Technology Vadodara
 - [Etymology Viewer](https://etymology.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/etymology-viewer)) - A small site that shows the origin of some common words
 - [Rupee Inflation Dashboard](https://rupee-inflation.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/rupee-inflation-dashboard)) - Dashboard showing how the buying power of ₹100 has changed over the years
+- Chhattisgarhi ([GitHub Repo](https://github.com/thepushkarp/chhattisgarhi)) - Script to collect scrape and clean sentences in Chhattisgarhi for data collection
 
