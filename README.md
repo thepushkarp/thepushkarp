@@ -31,14 +31,6 @@
 -   💬 Besides programming, I also love etymology ([Logophilia](https://logophilia.thinkific.com/) is one of the reasons why!)
 -   📫 Reach out to me at `hi [AT] thepushkarp [DOT] com`
 
-Previously...
-
--   ⛓️ Fellow at [ETHIndia Fellowship '23](https://eif3.devfolio.co/fellows)
--   ☀️ GSoC '22 contributor at [RADAR-Base](https://radar-base.org/)
--   👨‍💻 Software Engineer at Samsung R&D
--   🪻 Machine Learning Intern at Longshot AI
--   🎓 Graduated from IIIT Vadodara
-
 ## Last 5 [Nibbles](https://nibbles.dev)
 <!-- NIBBLE:START -->
 - [#45](https://thenibble.substack.com/p/45)
