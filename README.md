@@ -48,7 +48,7 @@ Previously...
 - [Dive into the World of High-Quality Data with Abhishek](https://thenibble.substack.com/p/dive-into-the-world-of-high-quality)
 <!-- NIBBLE:END -->
 
-## Some of my side projects:
+## Some of the side projects I worked on:
 
 2024
 - [Discord Spoiler Text Converter](https://discord-spoiler-text-converter.thepushkarp.com/) ([GitHub Repo](https://github.com/thepushkarp/discord-spoiler-text-converter)) - Convert your text to Discord Spoiler Text in an instant
