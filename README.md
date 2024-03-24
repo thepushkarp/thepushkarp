@@ -33,11 +33,11 @@
 
 ## Last 5 [Nibbles](https://nibbles.dev)
 <!-- NIBBLE:START -->
+- [#52](https://www.nibbles.dev/p/52)
 - [#51](https://www.nibbles.dev/p/51)
 - [#50](https://www.nibbles.dev/p/50)
 - [#49](https://www.nibbles.dev/p/49)
 - [#48](https://www.nibbles.dev/p/48)
-- [#47](https://www.nibbles.dev/p/47)
 <!-- NIBBLE:END -->
 
 ## Some of the side projects I worked on:
