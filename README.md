@@ -7,7 +7,7 @@
   <a href="https://blog.thepushkarp.com/">
     <img src="https://img.shields.io/badge/Pushkar's%20Blog-ff1a75?style=for-the-badge&logo=ghost&logoColor=white">
   <a/>
-  <a href="https://thenibble.substack.com/">
+  <a href="https://nibbles.dev/">
     <img src="https://img.shields.io/badge/The%20Nibble-FF6719?style=for-the-badge&logo=substack&logoColor=white">
   <a/>
   <a href="https://github.com/thepushkarp">
