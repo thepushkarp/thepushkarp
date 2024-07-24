@@ -24,7 +24,7 @@
 ---
 
 -   👩‍💻 Currently Software Engineer at a Stealth Startup
--   📰 I curate interesting tech bites at [The Nibble](https://thenibble.substack.com/) with [@aashutoshrathi](https://github.com/aashutoshrathi/)
+-   📰 I curate interesting tech bites at [The Nibble](https://nibbles.dev/) with [@aashutoshrathi](https://github.com/aashutoshrathi/)
 -   🌐 Check out my website https://thepushkarp.com/
 -   🥷 Building some cool stuff with LLMs
 -   👀 Looking to collaborate on interesting Machine Learning projects
