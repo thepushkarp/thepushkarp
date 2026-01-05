@@ -7,6 +7,7 @@
 
 - [Dotfiles](https://github.com/thepushkarp/dotfiles) - Dotfiles for bootstrapping configs across machines
 - [Brainstorm Plan](https://github.com/thepushkarp/brainstorm-plan) - A Claude Code plugin marketplace for turning fuzzy ideas into concrete design docs and implementation plans.
+- [Handoff](https://github.com/thepushkarp/handoff) - A Claude Code plugin to preserve and restore context between sessions
 
 ## Last 5 Blog Posts
 
