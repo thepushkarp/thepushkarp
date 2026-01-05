@@ -8,6 +8,10 @@
 - [Dotfiles](https://github.com/thepushkarp/dotfiles) - Dotfiles for bootstrapping configs across machines
 - [Brainstorm Plan](https://github.com/thepushkarp/brainstorm-plan) - A Claude Code plugin marketplace for turning fuzzy ideas into concrete design docs and implementation plans.
 
+## Last 5 Blog Posts
+
+- [Reflections on 2025](https://thepushkarp.com/reflections-2025)
+
 ## Last 5 [Nibbles](https://nibbles.dev)
 <!-- NIBBLE:START -->
 - [#100 — The Whale kept shipping, GPT 4.5, Laravel builds an IaaS, Git up, announcing a hiatus and more](https://www.nibbles.dev/p/100)
