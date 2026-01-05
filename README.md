@@ -1,11 +1,11 @@
 ## Recent Projects
 
-- [Personal Blog](https://www.thepushkarp.com/)
+- [Personal Blog](https://www.thepushkarp.com/) - I write here
 - [Etymology Explorer](https://github.com/thepushkarp/etymology-explorer) - A beautiful, interactive web app that helps you discover the origins and roots of words. Perfect for vocabulary enthusiasts who want to understand words deeply through their etymological roots. Try it out at [etymology.thepushkarp.com](https://etymology.thepushkarp.com/)
 
 ## Housekeeping
 
-- [Dotfiles](https://github.com/thepushkarp/dotfiles)
+- [Dotfiles](https://github.com/thepushkarp/dotfiles) - Dotfiles for bootstrapping configs across machines
 - [Brainstorm Plan](https://github.com/thepushkarp/brainstorm-plan) - A Claude Code plugin marketplace for turning fuzzy ideas into concrete design docs and implementation plans.
 
 ## Last 5 [Nibbles](https://nibbles.dev)
