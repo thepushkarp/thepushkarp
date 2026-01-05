@@ -2,6 +2,7 @@
 
 - [Personal Blog](https://www.thepushkarp.com/) - I write here
 - [Etymology Explorer](https://github.com/thepushkarp/etymology-explorer) - A beautiful, interactive web app that helps you discover the origins and roots of words. Perfect for vocabulary enthusiasts who want to understand words deeply through their etymological roots. Try it out at [etymology.thepushkarp.com](https://etymology.thepushkarp.com/)
+- [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves.
 
 ## Housekeeping
 
