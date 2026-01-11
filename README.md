@@ -1,3 +1,13 @@
+Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) online_). Welcome to my GitHub ( o.o )
+
+```
+  /\_/\  
+ ( o.o ) 
+  > ^ 
+ /|   |\
+(_|   |_)
+``` 
+
 ## Recent Projects
 
 - [Personal Blog](https://www.thepushkarp.com/) - I write here
