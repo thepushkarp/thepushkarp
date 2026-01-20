@@ -18,6 +18,17 @@ Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) onl
 - [Brainstorm Plan](https://github.com/thepushkarp/brainstorm-plan) - A Claude Code plugin marketplace for turning fuzzy ideas into concrete design docs and implementation plans.
 - [Handoff](https://github.com/thepushkarp/handoff) - A Claude Code plugin to preserve and restore context between sessions
 
+## Socials
+
+Here are some other places you can find me:
+- [Personal Site](https://thepushkarp.com/)
+- [X/Twitter](https://x.com/thepushkarp)
+- [GitHub](https://github.com/thepushkarp/)
+- [HuggignFace](https://huggingface.co/thepushkarp)
+- [LinkedIn](http://linkedin.com/in/thepushkarp)
+- [Nibbles](https://nibbles.dev)
+- [Substack](https://substack.com/@thepushkarp)
+
 ## Last 5 Blog Posts
 
 - [Reflections on 2025](https://thepushkarp.com/reflections-2025)
