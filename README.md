@@ -17,6 +17,7 @@ Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) onl
 - [Dotfiles](https://github.com/thepushkarp/dotfiles) - Dotfiles for bootstrapping configs across machines
 - [Brainstorm Plan](https://github.com/thepushkarp/brainstorm-plan) - A Claude Code plugin marketplace for turning fuzzy ideas into concrete design docs and implementation plans.
 - [Handoff](https://github.com/thepushkarp/handoff) - A Claude Code plugin to preserve and restore context between sessions
+- [CC Codex Plugin](https://github.com/thepushkarp/cc-codex-plugin) - A Claude Code plugin integrating OpenAI Codex CLI for detail-oriented code review and planning
 
 ## Socials
 
