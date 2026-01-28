@@ -29,7 +29,7 @@ Here are some other places you can find me:
 - [HuggignFace](https://huggingface.co/thepushkarp)
 - [LinkedIn](http://linkedin.com/in/thepushkarp)
 - [Nibbles](https://nibbles.dev)
-- [Substack](https://substack.com/@thepushkarp)
+- [Substack](https://thepushkarp.substack.com/)
 
 ## Last 5 Blog Posts
 
