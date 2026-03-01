@@ -3,15 +3,21 @@ Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) onl
 ```
  /\_/\
 ( o.o )
- > ^ 
-``` 
+ > ^
+```
 
 ## Recent Projects
 
 - [Personal Blog](https://www.thepushkarp.com/) - I write here
+- [mls](https://github.com/thepushkarp/mls) - Terminal-native audio/video file browser with metadata columns, TUI preview, and structured JSON output
 - [Etymology Explorer](https://etymology.thepushkarp.com/) - A beautiful, interactive web app that helps you discover the origins and roots of words. Perfect for vocabulary enthusiasts who want to understand words deeply through their etymological roots.
 - [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves.
+
+## Random/Fun
+
+- [Rupee Inflation Dashboard](https://github.com/thepushkarp/rupee-inflation-dashboard) - Dashboard showing how the buying power of ₹100 has changed over the years
 - [Faaaa](http://faaaa.thepushkarp.com/) - Faaaa
+- [Discord Spoiler Text Converter](https://github.com/thepushkarp/discord-spoiler-text-converter) - Convert your text to Discord Spoiler Text in an instant
 
 ## Housekeeping
 
@@ -27,7 +33,7 @@ Here are some other places you can find me:
 - [Personal Site](https://thepushkarp.com/)
 - [X/Twitter](https://x.com/thepushkarp)
 - [GitHub](https://github.com/thepushkarp/)
-- [HuggignFace](https://huggingface.co/thepushkarp)
+- [HuggingFace](https://huggingface.co/thepushkarp)
 - [LinkedIn](http://linkedin.com/in/thepushkarp)
 - [Nibbles](https://nibbles.dev)
 - [Substack](https://thepushkarp.substack.com/)
