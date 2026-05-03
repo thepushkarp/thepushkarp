@@ -10,7 +10,7 @@ Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) onl
 
 - [Personal Blog](https://www.thepushkarp.com/) - I write here
 - [mls](https://github.com/thepushkarp/mls) (Media LS) - Terminal-native media (audio/video/image) file browser with TUI preview, metadata, and structured JSON output
-- [Etymology Explorer](https://etymology.thepushkarp.com/) - A beautiful, interactive web app that helps you discover the origins and roots of words. Perfect for vocabulary enthusiasts who want to understand words deeply through their etymological roots.
+- [Etymology Explorer](http://etymex.com/) - A beautiful, interactive web app that helps you discover the origins and roots of words. Perfect for vocabulary enthusiasts who want to understand words deeply through their etymological roots.
 - [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves.
 
 ## Random/Fun
