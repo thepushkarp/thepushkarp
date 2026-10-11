@@ -19,7 +19,7 @@ Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) onl
 - [Faaaa](http://faaaa.thepushkarp.com/) - Faaaa
 - [Discord Spoiler Text Converter](https://github.com/thepushkarp/discord-spoiler-text-converter) - Convert your text to Discord Spoiler Text in an instant
 - [Was Claude Down Today](https://wasclaudedown.today) - Tells you if Claude was down today
-- - [CC Gemini Plugin](https://github.com/thepushkarp/cc-gemini-plugin) - A Claude Code plugin integrating Antigravity CLI for long-context code exploration and analysis
+- [CC Gemini Plugin](https://github.com/thepushkarp/cc-gemini-plugin) - A Claude Code plugin integrating Antigravity CLI for long-context code exploration and analysis
 
 ## Socials
 
