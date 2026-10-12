@@ -1,40 +1,38 @@
 Hi anon, I am Pushkar (_alias [thepushkarp](https://github.com/thepushkarp/) online_). Welcome to my GitHub ( o.o )
 
+I am an ML Engineer at [Sarvam](https://www.sarvam.ai/), working on training models.
+
 ```
  /\_/\
 ( o.o )
  > ^
 ```
 
-## Recent Projects
+## Highlight
 
-- [Personal Blog](https://www.thepushkarp.com/) - I write here
+- 1st place in the Gated Delta Net track of the [MLSys '26 FlashInfer AI Kernel Generation Contest](https://mlsys26.flashinfer.ai/) as team Kachua: Triton prefill and CUDA decode kernels for NVIDIA B200.
+
+## Selected Projects
+
+- [Kachua MLSys GDN Kernels](https://github.com/romitjain/kachua-mlsys) - Winning Gated Delta Net kernels for the MLSys '26 FlashInfer contest
+- [Etymology Explorer](https://www.etymex.com/) - An interactive etymology explorer for people who like understanding where words came from
 - [mls](https://github.com/thepushkarp/mls) (Media LS) - Terminal-native media (audio/video/image) file browser with TUI preview, metadata, and structured JSON output
-- [Etymology Explorer](http://etymex.com/) - A beautiful, interactive web app that helps you discover the origins and roots of words. Perfect for vocabulary enthusiasts who want to understand words deeply through their etymological roots.
-- [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves.
-
-## Random/Fun
-
-- [Rupee Inflation Dashboard](https://github.com/thepushkarp/rupee-inflation-dashboard) - Dashboard showing how the buying power of ₹100 has changed over the years
+- [CC Gemini Plugin](https://github.com/thepushkarp/cc-gemini-plugin) - Gemini CLI integration for Claude Code, Codex, and basically any agent, for long-context code exploration and analysis
+- [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves
+- [Was Claude Down Today](https://wasclaudedown.today) - Tells you if Claude was down today
 - [Faaaa](http://faaaa.thepushkarp.com/) - Faaaa
 - [Discord Spoiler Text Converter](https://github.com/thepushkarp/discord-spoiler-text-converter) - Convert your text to Discord Spoiler Text in an instant
-- [Was Claude Down Today](https://wasclaudedown.today) - Tells you if Claude was down today
-- [CC Gemini Plugin](https://github.com/thepushkarp/cc-gemini-plugin) - A Claude Code plugin integrating Antigravity CLI for long-context code exploration and analysis
 
 ## Socials
 
 Here are some other places you can find me:
-- [Personal Site](https://thepushkarp.com/)
+- [My Website](https://thepushkarp.com/)
 - [X/Twitter](https://x.com/thepushkarp)
 - [GitHub](https://github.com/thepushkarp/)
 - [HuggingFace](https://huggingface.co/thepushkarp)
 - [LinkedIn](http://linkedin.com/in/thepushkarp)
 - [Nibbles](https://nibbles.dev)
 - [Substack](https://thepushkarp.substack.com/)
-
-## Last 5 Blog Posts
-
-- [Reflections on 2025](https://thepushkarp.com/reflections-2025)
 
 ## Last 5 [Nibbles](https://nibbles.dev)
 <!-- NIBBLE:START -->
