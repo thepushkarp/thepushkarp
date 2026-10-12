@@ -19,6 +19,7 @@ I am an ML Engineer at [Sarvam](https://www.sarvam.ai/), working on training mod
 - [mls](https://github.com/thepushkarp/mls) (Media LS) - Terminal-native media (audio/video/image) file browser with TUI preview, metadata, and structured JSON output
 - [NaLCoS](https://github.com/thepushkarp/nalcos) (Natural Language Commit Search) - Natural language search over your Git history: finds past changes and regression candidates from commit messages and patches, for you or your coding agent
 - [CC Gemini Plugin](https://github.com/thepushkarp/cc-gemini-plugin) - Gemini CLI integration for Claude Code, Codex, and basically any agent, for long-context code exploration and analysis
+- [RADAR-Pipeline, Google Summer of Code 2022](https://thepushkarp.github.io/RADAR-Base-GSoC-2022-Report/) - Enhanced the RADAR-Base feature pipeline with PySpark data ingestion, feature computation, and export, all configurable from a single YAML file ([project page](https://summerofcode.withgoogle.com/archive/2022/projects/BBvIfWgK))
 - [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves
 - [Was Claude Down Today](https://wasclaudedown.today) - Tells you if Claude was down today
 - [Faaaa](http://faaaa.thepushkarp.com/) - Faaaa
