@@ -17,6 +17,7 @@ I am an ML Engineer at [Sarvam](https://www.sarvam.ai/), working on training mod
 - [Kachua MLSys GDN Kernels](https://github.com/romitjain/kachua-mlsys) - Winning Gated Delta Net kernels for the MLSys '26 FlashInfer contest
 - [Etymology Explorer](https://www.etymex.com/) - An interactive etymology explorer for people who like understanding where words came from
 - [mls](https://github.com/thepushkarp/mls) (Media LS) - Terminal-native media (audio/video/image) file browser with TUI preview, metadata, and structured JSON output
+- [NaLCoS](https://github.com/thepushkarp/nalcos) (Natural Language Commit Search) - Natural language search over your Git history: finds past changes and regression candidates from commit messages and patches, for you or your coding agent
 - [CC Gemini Plugin](https://github.com/thepushkarp/cc-gemini-plugin) - Gemini CLI integration for Claude Code, Codex, and basically any agent, for long-context code exploration and analysis
 - [Let Me ChatGPT That](https://www.letmechatgptthat.app/) - For all those people who find it more convenient to bother you with their question rather than ChatGPT it themselves
 - [Was Claude Down Today](https://wasclaudedown.today) - Tells you if Claude was down today
