@@ -1,0 +1,17 @@
+name: Lastest Nibble
+on:
+  # schedule:
+  #   - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Nibbles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "NIBBLE"
+          commit_message: "Update with new Nibble"
+          feed_list: "https://www.nibbles.dev/feed.xml"
